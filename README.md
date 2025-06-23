@@ -9,7 +9,7 @@ La **firma electrónica en Chile** está regulada por la siguiente normativa:
 Promulgada el **12 de marzo de 2002**.
 
 Puedes revisar el texto completo de la ley aquí:  
-[https://www.bcn.cl/leychile/navegar?idNorma=192569](https://www.bcn.cl/leychile/navegar?idNorma=192569)
+[https://www.bcn.cl/leychile/navegar?idNorma=196640](https://www.bcn.cl/leychile/navegar?idNorma=196640)
 
 ---
 
